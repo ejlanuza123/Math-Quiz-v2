@@ -44,7 +44,7 @@
             </div>
         </div>
 
-        <!-- Settings Section -->
+        <!-- Settings Section  -->
         <div class="settings">
             <h2>Settings</h2>
 
