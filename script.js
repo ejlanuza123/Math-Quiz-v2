@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentQuestionIndex = 0;
   let correctAnswers = 0;
   let wrongAnswers = 0;
-  let totalQuestions = 10; // Default to 10 questions
+  let totalQuestions = 10; 
   let questions = [];
   let correctAnswer;
   let questionAnswered = false; // Track if the current question has been answered
