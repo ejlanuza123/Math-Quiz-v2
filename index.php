@@ -10,7 +10,7 @@
     <div class="container">
         <h1>Simple Mathematics</h1>
         
-        <!-- Quiz Section -->
+        <!-- Quiz Section  and style-->
         <div class="quiz">
             <div class="question">
                 <span id="num1">0</span>
